@@ -8,9 +8,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxuib57qyttczpipuvxvqczsdq&cover_image=true&theme=novatorem&show_offline=true&background_color=ff7800&interchange=true&bar_color=9141ac&bar_color_cover=true" />
-</p>
+
 
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
